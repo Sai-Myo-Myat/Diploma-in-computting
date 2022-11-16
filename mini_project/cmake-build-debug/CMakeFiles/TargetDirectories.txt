@@ -1,0 +1,3 @@
+/home/saimyomyat/CLionProjects/day_5/mini_project/cmake-build-debug/CMakeFiles/mini_project.dir
+/home/saimyomyat/CLionProjects/day_5/mini_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/saimyomyat/CLionProjects/day_5/mini_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
