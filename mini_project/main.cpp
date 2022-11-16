@@ -108,7 +108,7 @@ int main() {
                     userCoins =  userCoins - bet;
                 }
             }
-            if (userCoins < 0) {
+            if (userCoins < 1) {
                 printf("Game Over!");
             }
         }
